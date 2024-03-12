@@ -1,0 +1,22 @@
+.container-searched-orders{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid;
+  margin: 0 auto;
+  width: 380px;
+}
+.searched-orders {
+  width: 300px;
+  padding: 8px;
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.delete-searched {
+  width: 40px;
+  padding: 8px;
+  font-size: 20px;
+  background-color: transparent;
+}

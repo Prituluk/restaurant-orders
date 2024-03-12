@@ -1,0 +1,12 @@
+
+
+.order-container {
+  width: 600px;
+  height: 60px;
+  padding: 0px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  background-color:brown;
+}

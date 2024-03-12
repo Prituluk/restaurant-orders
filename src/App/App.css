@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  z-index: 1;
+}
+
+.orders-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.order-list {
+  list-style: none;
+  width: 620px;
+  height: auto;
+  padding: 0px 10px;
+
+}
+
+
+.icon-svg {
+  width: 24px;
+  height: 24px;
+}
+.skeleton-container--list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}

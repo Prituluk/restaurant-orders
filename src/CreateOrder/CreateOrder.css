@@ -1,0 +1,20 @@
+.container-add-order {
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.add-Order{
+  padding: 8px;
+  font-size: 20px;
+  margin: 30px 0px;
+
+}
+.container-add-order input {
+  font-size: 20px;
+  padding: 8px;
+}
+.container-add-order span {
+  font-size: 20px;
+  margin: 0px 5px;
+}

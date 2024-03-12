@@ -1,0 +1,13 @@
+.orders-content {
+  padding: 0;
+  font-size: 20px;
+  font-weight: 400;
+}
+.order-name{
+  width: 300px;
+  height: auto;
+}
+.order-price{
+  width: 150px;
+  height: auto;
+}
